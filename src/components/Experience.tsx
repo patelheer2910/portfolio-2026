@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 
 const experiences = [
   {
-    role: "Graduate Research Assistant",
+    role: "Generative AI Researcher",
     org: "Questrom School of Business, Boston University",
     location: "Boston, MA",
     period: "Jun 2025 – Jan 2026",
@@ -21,12 +21,12 @@ const experiences = [
     org: "Packt",
     location: "Remote",
     period: "Sep 2025 – Dec 2025",
-    note: "Reviewed \u201cContext Engineering for Multi-Agent Systems\u201d by Denis Rothman",
+    note: "Reviewed \u201cContext Engineering for Multi-Agent Systems\u201d by Denis Rothman for technical accuracy and clarity",
     color: "#a78bfa",
     bullets: [],
   },
   {
-    role: "Technical Project Manager",
+    role: "ML Technical Project Manager",
     org: "BU Spark!",
     location: "Boston, MA",
     period: "Sep 2025 – Dec 2025",
@@ -70,7 +70,7 @@ const experiences = [
     ],
   },
   {
-    role: "Artificial Intelligence Intern",
+    role: "AI Engineering Intern",
     org: "SAP",
     location: "Gujarat, India",
     period: "Jan 2024 – Jun 2024",
