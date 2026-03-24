@@ -66,7 +66,7 @@ export default function Navbar() {
               </a>
             ))}
             <a
-              href="https://drive.google.com/file/d/1JbQQqIi6iGbVlGB-OD7fzcdXsVGK9iqD/view?usp=sharing"
+              href="https://drive.google.com/file/d/13ZaR_9i1aIooIc0fkmWKjSeNt2SWsElw/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="btn btn-ghost"
@@ -117,7 +117,7 @@ export default function Navbar() {
                 </a>
               ))}
               <a
-                href="https://drive.google.com/file/d/1JbQQqIi6iGbVlGB-OD7fzcdXsVGK9iqD/view?usp=sharing"
+                href="https://drive.google.com/file/d/13ZaR_9i1aIooIc0fkmWKjSeNt2SWsElw/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{

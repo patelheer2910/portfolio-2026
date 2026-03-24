@@ -31,13 +31,15 @@ export default function Contact() {
             style={{ display: "flex", flexDirection: "column", gap: 10 }}
           >
             {[
-              { Icon: Mail,   label: "Email",    value: "patelheer2002@gmail.com", href: "mailto:patelheer2002@gmail.com" },
+              { Icon: Mail,   label: "Email",    value: "patelheer2002@gmail.com", href: "https://mail.google.com/mail/?view=cm&to=patelheer2002@gmail.com" },
               { Icon: Phone,  label: "Phone",    value: "(617) 359-2146",          href: "tel:+16173592146" },
               { Icon: MapPin, label: "Location", value: "Boston, MA",             href: "#" },
             ].map(({ Icon, label, value, href }) => (
               <a
                 key={label}
                 href={href}
+                target="_blank"
+                rel="noopener noreferrer"
                 className="card"
                 style={{ display: "flex", alignItems: "center", gap: 14, padding: "14px 18px", textDecoration: "none" }}
               >
@@ -101,7 +103,7 @@ export default function Contact() {
             <p style={{ fontSize: "0.875rem", color: "var(--text-muted)", lineHeight: 1.75, marginBottom: 28, maxWidth: 260 }}>
               Whether it&apos;s a role, a research collab, or just a chat about AI — my inbox is always open.
             </p>
-            <a href="mailto:patelheer2002@gmail.com" className="btn btn-solid">
+            <a href="https://mail.google.com/mail/?view=cm&to=patelheer2002@gmail.com" target="_blank" rel="noopener noreferrer" className="btn btn-solid">
               Send a Message
             </a>
           </motion.div>
