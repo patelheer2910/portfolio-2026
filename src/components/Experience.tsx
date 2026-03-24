@@ -51,7 +51,7 @@ const experiences = [
     role: "Machine Learning Engineer",
     org: "The AI Collective",
     location: "Boston, MA",
-    period: "Jan 2025 – May 2025",
+    period: "Jan 2025 – Jun 2025",
     color: "#22d3ee",
     bullets: [
       "Engineered a constraint-aware semantic matching engine with community governance rules, improving match precision by 25%.",
