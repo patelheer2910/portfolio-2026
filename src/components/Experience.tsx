@@ -59,17 +59,6 @@ const experiences = [
     ],
   },
   {
-    role: "AI Intern",
-    org: "RadicalX",
-    location: "Remote",
-    period: "Nov 2023 – Jan 2024",
-    color: "#818cf8",
-    bullets: [
-      "Used OpenAI, VertexAI, and TensorFlow to enhance ReX, an AI coaching product.",
-      "Built personalized career guidance and mentorship features serving 500+ learners.",
-    ],
-  },
-  {
     role: "AI Engineering Intern",
     org: "SAP",
     location: "Gujarat, India",
@@ -79,6 +68,17 @@ const experiences = [
     bullets: [
       "Built an AI recruitment platform using NLP-based resume-JD matching and automated soft-skill interviews — 87% classification accuracy.",
       "Implemented extraction, semantic mapping, and sentiment analysis for talent-role alignment.",
+    ],
+  },
+  {
+    role: "AI Intern",
+    org: "RadicalX",
+    location: "Remote",
+    period: "Nov 2023 – Jan 2024",
+    color: "#818cf8",
+    bullets: [
+      "Used OpenAI, VertexAI, and TensorFlow to enhance ReX, an AI coaching product.",
+      "Built personalized career guidance and mentorship features serving 500+ learners.",
     ],
   },
   {
